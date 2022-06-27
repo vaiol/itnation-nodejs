@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vaiol/itnation-nodejs/issues"
   },
-  "homepage": "https://github.com/vaiol/itnation-nodejs#readme"
+  "homepage": "https://github.com/vaiol/itnation-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
